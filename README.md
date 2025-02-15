@@ -17,7 +17,7 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 ## 🏆 Featured Projects  
-🔹 **[Real-Time Translation System](#)** – AI-powered speech-to-text & translation, built with **Docker, Redis, and RabbitMQ on a Raspberry PI**   
+🔹 **[Real-Time Translation System](#)** – AI-powered speech-to-text & translation, built with **Docker, Redis,, python and RabbitMQ on a Raspberry PI**   
 🔹 **[Alcohol Sensor System](#)** – Real-time alcohol detection using **Java(android application) and an Arduino Board,**  
 🔹 **[FTP Transfer Automation](#)** – Secure **file transfer system** optimizing data uploads & downloads over FTP in Python  
 🔹 **[Hackathon Soccer Player Data Analysis](#)** – SQL + Grafana visualization for talent scouting  
