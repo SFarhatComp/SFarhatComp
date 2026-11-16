@@ -1,27 +1,20 @@
-# 👋 Hi, I'm Sami Farhat!
-💻 Application Software Developer @ Boeing  
-📍 Based in Montreal, Canada  
+# Sami Farhat
 
-## 🚀 About Me  
-- 🏗 Passionate about **backend development, automation, and system design**  
-- 🎤 Enjoy **public speaking, technical presentations, and knowledge sharing**  
-- 🌍 **Canadian Citizen | TN Visa Eligible**  
+Senior Developer I and Americas AI subject-matter expert at Jeppesen ForeFlight, Montreal.
 
-## 🔨 Technologies & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+I build backend systems for aviation and the AI tooling that makes engineers faster.
 
-## 🏆 Featured Projects  
-🔹 **[Real-Time Translation System](https://github.com/SFarhatComp/Real-Time-Translation-Device)** – AI-powered speech-to-text & translation, built with **Docker, Redis,, python and RabbitMQ on a Raspberry PI**   
-🔹 **[Alcohol Sensor System](https://github.com/SFarhatComp/AlcoholSensor)** – Real-time alcohol detection using **Java(android application) and an Arduino Board,**  
-🔹 **[FTP Transfer](https://github.com/SFarhatComp/FTP-Protocol-Project)** – Secure **file transfer system** optimizing data uploads & downloads over FTP in Python  
-🔹 **More projects available in my repositories!**  
+- **Backend:** Python services behind a vacation bidding platform used by 20,000 pilots; REST ingestion into Oracle; releases and production ownership.
+- **AI developer tooling:** internal MCP servers for JIRA, Confluence, GitLab and Primavera, now used across offices; a shared spec → plan → review workflow for building with AI agents.
 
-## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SFarhatComp)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samifarhat00/)  
+Most of my work is in private company repositories. What is public here:
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [journeyman](https://github.com/SFarhatComp/journeyman) | Real-time multiplayer sports trivia on phones, about 65,000 players from Wikidata, the NHL API and NBA stats. Built with AI coding agents; the design decisions are mine. | Node.js, WebSockets, Docker |
+| [Real-Time-Translation-Device](https://github.com/SFarhatComp/Real-Time-Translation-Device) | Concordia capstone, which I led: offline speech translation on a Raspberry Pi, streamed to listeners' phones over its own Wi-Fi. | Python, FastAPI, RabbitMQ, Redis, Docker |
+| [PWebSite](https://github.com/SFarhatComp/PWebSite) | The source of [sami-farhat.com](https://sami-farhat.com): my career drawn as a flight chart. | React, TypeScript, Vite |
+
+Canadian citizen, TN-visa eligible. English and French.
+
+[sami-farhat.com](https://sami-farhat.com) · [LinkedIn](https://www.linkedin.com/in/samifarhat00/)
