@@ -13,7 +13,6 @@ Most of my work is in private company repositories. What is public here:
 | --- | --- | --- |
 | [journeyman](https://github.com/SFarhatComp/journeyman) | Real-time multiplayer sports trivia on phones, about 65,000 players from Wikidata, the NHL API and NBA stats. Built with AI coding agents; the design decisions are mine. | Node.js, WebSockets, Docker |
 | [Real-Time-Translation-Device](https://github.com/SFarhatComp/Real-Time-Translation-Device) | Concordia capstone, which I led: offline speech translation on a Raspberry Pi, streamed to listeners' phones over its own Wi-Fi. | Python, FastAPI, RabbitMQ, Redis, Docker |
-| [PWebSite](https://github.com/SFarhatComp/PWebSite) | The source of [sami-farhat.com](https://sami-farhat.com): my career drawn as a flight chart. | React, TypeScript, Vite |
 
 Canadian citizen, TN-visa eligible. English and French.
 
